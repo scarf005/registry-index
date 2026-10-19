@@ -64,7 +64,14 @@ const fixture = ({
             : Promise.resolve({ data: { object: { sha } } }),
       },
       repos: {
-        getCombinedStatusForRef: () => Promise.resolve({ data: { statuses } }),
+        // GitHub omits creator from combined statuses; only the status list carries it
+        getCombinedStatusForRef: () =>
+          Promise.resolve({
+            data: {
+              statuses: statuses.map(({ creator: _, ...status }) => status),
+            },
+          }),
+        listCommitStatusesForRef: () => Promise.resolve({ data: statuses }),
         createCommitStatus: (value: unknown) => {
           writes.push(value)
           return Promise.resolve()
