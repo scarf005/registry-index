@@ -370,15 +370,15 @@ fancy needs. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Lones Atomic additions](https://github.com/thelonestander/Lones-atomic-additions/archive/refs/heads/main.zip)
-| Thelonestander | 2026.9.18-954280c | Adds many new atomic gears to BN! | |
+| Thelonestander | 2026.10.30-b0c6d12 | Adds many new atomic gears to BN! | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Lones Augmented Arsenal](https://github.com/thelonestander/Lones-Augmented-Arsenal/archive/refs/heads/main.zip)
-| Thelonestander | 2026.10.9-18c1b2b | Adds many new atomic gears to BN! | |
+| Thelonestander | 2026.10.30-8fcbf10 | Adds many new atomic gears to BN! | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Lones Cata++ patchmod](https://github.com/thelonestander/Lones-atomic-additions/archive/refs/heads/main.zip)
-| Thelonestander | 2026.9.18-954280c | Patch mod for acs stealth cloak to be
+| Thelonestander | 2026.10.30-b0c6d12 | Patch mod for acs stealth cloak to be
 used for cata++. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
