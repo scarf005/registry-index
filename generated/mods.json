@@ -489,7 +489,7 @@
     ],
     "license": "CC-BY-SA-3.0",
     "homepage": "https://github.com/Noctifer-de-Mortem/nocts_cata_mod/tree/master/Patchmods/BN_Arcana_Cata++_Patch",
-    "version": "2026.11.2-f032a50",
+    "version": "2026.11.7-bc4b944",
     "yanked": {
       "reason": "Replaced by mod_interactions."
     },
@@ -501,7 +501,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Noctifer-de-Mortem/nocts_cata_mod/archive/refs/heads/master.zip",
-      "commit_sha": "f032a5085821cf5db99fbe760678f7feda8b828c",
+      "commit_sha": "bc4b9443ed8dc5aec3b1bedac666037ce33727cc",
       "extract_path": "Patchmods/BN_Arcana_Cata++_Patch"
     },
     "categories": [
@@ -514,7 +514,7 @@
       "branch": "master"
     },
     "parent": "arcana",
-    "last_updated": "2026-11-02T05:36:17.044Z"
+    "last_updated": "2026-11-07T05:37:49.774Z"
   },
   {
     "schema_version": "1.0",
@@ -1545,7 +1545,7 @@
     ],
     "license": "CC-BY-SA-3.0",
     "homepage": "https://github.com/Noctifer-de-Mortem/nocts_cata_mod/tree/master/Patchmods/BN_Cata++_ExoticAmmo_Patch",
-    "version": "2026.11.2-f032a50",
+    "version": "2026.11.7-bc4b944",
     "yanked": {
       "reason": "Replaced by mod_interactions."
     },
@@ -1557,7 +1557,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Noctifer-de-Mortem/nocts_cata_mod/archive/refs/heads/master.zip",
-      "commit_sha": "f032a5085821cf5db99fbe760678f7feda8b828c",
+      "commit_sha": "bc4b9443ed8dc5aec3b1bedac666037ce33727cc",
       "extract_path": "Patchmods/BN_Cata++_ExoticAmmo_Patch"
     },
     "categories": [
@@ -1570,7 +1570,7 @@
       "branch": "master"
     },
     "parent": "cata",
-    "last_updated": "2026-11-02T05:36:12.151Z"
+    "last_updated": "2026-11-07T05:37:46.871Z"
   },
   {
     "schema_version": "1.0",
@@ -1583,14 +1583,14 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Noctifer-de-Mortem/nocts_cata_mod/tree/master/nocts_cata_mod_BN",
-    "version": "2026.11.2-f032a50",
+    "version": "2026.11.7-bc4b944",
     "dependencies": {
       "bn": ">=0.9.1"
     },
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Noctifer-de-Mortem/nocts_cata_mod/archive/refs/heads/master.zip",
-      "commit_sha": "f032a5085821cf5db99fbe760678f7feda8b828c",
+      "commit_sha": "bc4b9443ed8dc5aec3b1bedac666037ce33727cc",
       "extract_path": "nocts_cata_mod_BN"
     },
     "categories": [
@@ -1602,7 +1602,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-11-02T05:36:30.433Z"
+    "last_updated": "2026-11-07T05:37:46.228Z"
   },
   {
     "schema_version": "1.0",
@@ -3821,21 +3821,21 @@
     ],
     "license": "CC-BY-SA-4.0",
     "homepage": "https://github.com/MSCantrell/Mind-Over-Matter-for-Bright-Nights/tree/main/mindovermatter_bn",
-    "version": "2026.11.6-f9d4e2b",
+    "version": "2026.11.7-8f1c7e0",
     "dependencies": {
       "bn": ">=0.9.1"
     },
     "source": {
       "type": "github_archive",
       "url": "https://github.com/MSCantrell/Mind-Over-Matter-for-Bright-Nights/archive/refs/heads/main.zip",
-      "commit_sha": "f9d4e2bbc1fed081e058f3993e290f148f4a5d0f",
+      "commit_sha": "8f1c7e04201860867e92be4124170d005ff9a2c6",
       "extract_path": "Mind-Over-Matter-for-Bright-Nights-main/mindovermatter_bn"
     },
     "autoupdate": {
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-11-06T06:06:55.921Z"
+    "last_updated": "2026-11-07T05:37:41.742Z"
   },
   {
     "schema_version": "1.0",
